@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/Static Keyword/Static Keyword.iml" filepath="$PROJECT_DIR$/Static Keyword/Static Keyword.iml" />
       <module fileurl="file://$PROJECT_DIR$/Variables and Datatypes/Variables and Datatypes.iml" filepath="$PROJECT_DIR$/Variables and Datatypes/Variables and Datatypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wrapper Class/Wrapper Class.iml" filepath="$PROJECT_DIR$/Wrapper Class/Wrapper Class.iml" />
     </modules>
   </component>
 </project>
