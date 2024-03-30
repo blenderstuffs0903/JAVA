@@ -5,6 +5,5 @@ public class Main {
         Final finalClass = new Final();
         System.out.println(finalClass.X);
         finalClass.finalMethod();
-        System.out.println("YO");
     }
 }
